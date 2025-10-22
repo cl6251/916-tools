@@ -14,7 +14,11 @@ export default function Index() {
     </head>
     
     <body>
-    TEST
+    
+      <br></br>
+      <br></br>
+      <br></br>
+      <center>TEST</center>
     </body>
     
     
