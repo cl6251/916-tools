@@ -19,6 +19,7 @@ export default function Index() {
       <br></br>
       <br></br>
       <center>TEST</center>
+      <center><img src="/full_logo_service.png"></img></center></center>
     </body>
     
     
