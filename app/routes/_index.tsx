@@ -9,12 +9,15 @@ export const meta: MetaFunction = () => {
 
 export default function Index() {
   return (
-    <div className="flex h-screen items-center justify-center">
-      <div className="flex flex-col items-center gap-16">
-        <header className="flex flex-col items-center gap-9">
-        </header>
-        
-      </div>
-    </div>
+    <html>
+    <head>
+    </head>
+    
+    <body>
+    TEST
+    </body>
+    
+    
+    </html>
   );
 };
