@@ -19,7 +19,7 @@ export default function Index() {
       <br></br>
       <br></br>
       <center>TEST</center>
-      <center><img src="https://raw.githubusercontent.com/cl6251/916-tools/refs/heads/main/public/full_logo_service.png" style="width: 55vw; min-width: 330px;" /></center>
+      <center><img src="https://raw.githubusercontent.com/cl6251/916-tools/refs/heads/main/public/full_logo_service.png" style="width: 55vw; min-width: 330px;"></img></center>
     </body>
     
     
