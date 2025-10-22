@@ -19,7 +19,7 @@ export default function Index() {
       <br></br>
       <br></br>
       <center>TEST</center>
-      <center><img src="/full_logo_service.png"></center>
+      <center><img src="https://github.com/cl6251/916-tools/blob/main/public/full_logo_service.png"></img></center>
     </body>
     
     
